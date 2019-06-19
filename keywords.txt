@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For arduino-AI01
+#######################################
+
+#######################################
+# Instance	(KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions	(KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+enableMuxPort	KEYWORD2
+disableMuxPort	KEYWORD2
+
+#######################################
+# Constants	(LITERAL1)
+#######################################
+
+MUX_W	LITERAL1
+MUX_S	LITERAL1
+MUX_E	LITERAL1
+MUX_N	LITERAL1
+
