@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/xinabox/arduino-AI01.svg?branch=master)](https://travis-ci.org/xinabox/arduino-AI01)
+[![GitHub issues](https://img.shields.io/github/issues/xinabox/arduino-AI01.svg)](https://github.com/xinabox/arduino-AI01/issues)
+
 # ☒AI01
 <img src="extras/AI01 V1.0.1.JPG" width="35%" height="auto" align="right">
 I2C MultiPlexer.
